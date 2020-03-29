@@ -1,0 +1,29 @@
+{
+  "name": "uri-online-judge",
+  "version": "1.0.0",
+  "description": "A collection of solved URI Online Judge problems, using the Javascript languange",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolivencia/uri-online-judge.git"
+  },
+  "keywords": [
+    "URI",
+    "online",
+    "judge",
+    "javascript"
+  ],
+  "author": "Ramiro Olivencia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolivencia/uri-online-judge/issues"
+  },
+  "homepage": "https://github.com/rolivencia/uri-online-judge#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
