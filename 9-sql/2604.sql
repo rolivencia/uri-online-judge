@@ -2,4 +2,4 @@
 
 SELECT id, name
 FROM products
-WHERE  amount < 10 OR amount > 100
+WHERE price < 10 OR price > 100 
