@@ -1,4 +1,5 @@
 // 1002 - Area of a Circle
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1002
 
 // TODO: Include libraries for execution and testing in Windows-based libraries (can this be done automatically based on environment checking?)
 /**
