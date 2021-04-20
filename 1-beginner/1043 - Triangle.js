@@ -1,4 +1,5 @@
 // 1043 - Triangle
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1043
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 
