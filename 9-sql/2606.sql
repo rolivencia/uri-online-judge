@@ -1,4 +1,5 @@
 -- 2606 - Categories
+-- URL - https://www.urionlinejudge.com.br/judge/en/problems/view/2606
 
 SELECT products.id, products.name
 FROM products
