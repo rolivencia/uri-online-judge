@@ -1,4 +1,5 @@
 // 1007 - Difference
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1007
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const numbers = input.split('\n').map(line => parseInt(line));

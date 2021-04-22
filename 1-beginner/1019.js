@@ -1,4 +1,5 @@
-//1019 - Time Conversion
+// 1019 - Time Conversion
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1019
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const timespan = parseInt(input); //in seconds

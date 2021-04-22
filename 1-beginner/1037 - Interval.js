@@ -1,4 +1,5 @@
 // 1037 - Interval
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1037
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const value = parseFloat(input);

@@ -1,4 +1,5 @@
-//1015 - Distance between two points
+// 1015 - Distance between two points
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1015
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const lines = input.split('\n');

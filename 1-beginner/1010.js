@@ -1,5 +1,5 @@
 // 1010 - Simple Calculate
-
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1010
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const lines = input.split('\n');
 

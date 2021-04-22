@@ -1,4 +1,5 @@
-//1012 - Area
+// 1012 - Area
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1012
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const lines = input.split('\n');

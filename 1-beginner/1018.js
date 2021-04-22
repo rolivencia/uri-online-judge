@@ -1,4 +1,5 @@
-//1018 - Banknotes
+// 1018 - Banknotes
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1018
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 

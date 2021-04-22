@@ -1,4 +1,5 @@
 // 1038 - Snack
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1038
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const [idProduct, quantity] = input.split(" ").map(value => parseInt(value));

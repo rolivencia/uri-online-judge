@@ -1,4 +1,5 @@
 // 1036 - Bhaskara's Formula
+// URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1036
 
  const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const [a,b,c] = input.split(" ").map(value => parseFloat(value));
