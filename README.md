@@ -6,7 +6,7 @@ This project is a collection of solved problems from URI Online Judge. Each prob
 
 Other than the SQL problems, the samples included in this project are coded using at least ECMAScript 2015 version of the JavaScript language.
 
-Currently, the JavaScript samples only work on Linux-based systems, since the dependency on the _/dev/stdin_ file to process the input streams.
+Currently, the JavaScript samples only work on Linux-based systems or can be tested inside the URI Online editor, since the dependency on the _/dev/stdin_ file to process the input streams.
 
 URI Online Judge website is available at https://www.urionlinejudge.com.br/. All the code here included is available under MIT license.
 
