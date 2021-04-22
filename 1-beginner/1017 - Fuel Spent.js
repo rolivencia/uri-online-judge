@@ -1,4 +1,4 @@
-//1017 - Fuel Spent
+// 1017 - Fuel Spent
 // URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1017
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');

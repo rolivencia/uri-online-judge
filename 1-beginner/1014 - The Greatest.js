@@ -1,4 +1,4 @@
-//1014 - The Greatest
+// 1014 - The Greatest
 // URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1014
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
