@@ -1,5 +1,6 @@
 // 1048 - Salary Increase
 // URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1048
+// Problem has known issues for JavaScript in URI. More information here: https://www.urionlinejudge.com.br/judge/en/questions/view/1048/11243
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const previousSalary = parseFloat(input);
