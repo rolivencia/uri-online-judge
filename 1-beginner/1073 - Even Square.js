@@ -6,6 +6,6 @@ const value = parseInt(input);
 
 for (let i = 1; i <= value; i++) {
   if (i % 2 === 0) {
-    console.log(`${i}^${i} = ${(i * i).toFixed(0)}`);
+    console.log(`${i}^2 = ${(i * i).toFixed(0)}`);
   }
 }
