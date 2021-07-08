@@ -9,7 +9,7 @@ for (let line of lines) {
 
   if (start === end) {
     break;
-  } else {
-    start > end ? console.log("Crescente") : console.log("Decrescente");
   }
+
+  start < end ? console.log("Crescente") : console.log("Decrescente");
 }
