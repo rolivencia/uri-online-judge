@@ -1,7 +1,7 @@
 {
   "name": "uri-online-judge",
   "version": "1.0.0",
-  "description": "A collection of solved URI Online Judge problems, using the Javascript languange",
+  "description": "A collection of solved URI Online Judge problems, using the Javascript language",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/rolivencia/uri-online-judge#readme",
   "devDependencies": {
     "fs": "0.0.1-security",
+    "nodemon": "^2.0.12",
     "prettier": "^2.2.1",
     "readline-sync": "^1.4.10"
   }
