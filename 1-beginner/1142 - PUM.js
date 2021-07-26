@@ -1,4 +1,4 @@
-// 1142 - Logical Sequence
+// 1142 - PUM
 // URL - https://www.urionlinejudge.com.br/judge/en/problems/view/1142
 
 // const input = "7";
