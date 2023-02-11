@@ -24,7 +24,7 @@
   "homepage": "https://github.com/rolivencia/uri-online-judge#readme",
   "devDependencies": {
     "fs": "0.0.1-security",
-    "nodemon": "^2.0.12",
+    "nodemon": "^2.0.20",
     "prettier": "^2.2.1",
     "readline-sync": "^1.4.10"
   }
